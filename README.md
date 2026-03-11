@@ -1,4 +1,4 @@
-# Machine Learning: Predictive Modeling & Customer Segmentation #
+# Machine Learning: Predictive Modeling #
 
 ## Project Overview ##
 This repository contains two advanced machine learning projects demonstrating proficiency in both Supervised and Unsupervised learning techniques. The goal of these models is to translate raw demographic and financial data into optimized, actionable insights for strategic decision-making and targeted outreach.
